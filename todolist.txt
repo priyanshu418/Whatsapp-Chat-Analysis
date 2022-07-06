@@ -1,0 +1,78 @@
+himanshu : path,database,deploy,
+gyanendra: code
+rahulka dost: backend
+rahul: git
+
+
+DSA:IW,gfg,leetcode,codeforces ^5
+DBMS:gfg,hackerrank ^1
+OS:gfg,tuts ^1
+CN:gfg,tuts ^1
+ML:gfg,tuts ^1
+WD:udemy,gfg, ^2
+Interview experiences:gfg ^ 2
+
+
+IW:20q except(leetcode,codeforces days)
+Sub:1hr
+WD/ML:2hr
+IW Exp:2hr
+
+11/05/22= 10q
+12/05/22= 15q
+13/05/22= 20q + 1hr webd + 1 codeforces contest(3)
+14/05/22= 20q + 1 codeforces contest(2) + 1 leetcode contest(2)
+15/05/22= 20q + 1hr lectures on webd
+16/05/22= 20q + 1hr lectures on webd + 1hr lectures on deep learning
+17/05/22= 20q + 1hr lectures on webd + 1hr lectures on deep learning
+18/05/22= 20q + 2hr lectures on webd + fun!
+19/05/22= 20q +fun!
+20/05/22= 20q + 1hr lectures on webd + 1hr lectures on deep learning
+21/05/22= 20q + 1hr lectures on webd + 2hr lectures on deep learning
+22/05/22= 20q + 1hr deep learning + 1 codeforces(2) + 1 leetcode(3)
+23/05/22= 20q + 1hr lectures on webd + 1hr lectures on deep learning
+24/05/22= 20q + 1hr lectures on webd + 1hr lectures on deep learning
+25/05/22= 20q + 1hr lectures on webd + 1hr lectures on deep learning + 1 codeforces contest(1)
+26/05/22= 20q + 1hr lectures on webd + 1hr lectures on deep learning
+27/05/22= 20q + 1hr lectures on webd + 1hr lectures on deep learning
+28/05/22= 20q + 2hr lectures on webd 
+29/05/22= 20q + 2hr lectures on webd 
+30/05/22= 20q + 2hr lectures on webd 
+31/05/22= 15q + 1hr lectures on webd 
+01/06/22= 20q + 1hr lectures on webd
+02/06/22= 10q + 1hr lectures on webd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://priyanshu418.github.io/hosting/
+
+
+INTERVIEWBIT  *******
+CODEFORCES	  **
+COMPANY EXPERIENCES ***
+
+DEEPLEARNING PROJECT ****
+WEBD PROJECT         *****
+
+RESUME *
+GIT    *
+OS     *
+CN     *
+DBMS   *
+

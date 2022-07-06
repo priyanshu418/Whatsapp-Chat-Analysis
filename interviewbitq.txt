@@ -1,0 +1,3 @@
+MAJORITY ELEMENT: using remove 
+*DISTRIBUTE CANDY: dp or greedy 
+*lis : using vector 
